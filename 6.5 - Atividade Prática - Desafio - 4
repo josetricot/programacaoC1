@@ -1,0 +1,9 @@
+Desafio 4: Calculadora Simples 
+Descrição: O programa deve pedir dois números e um operador (+, -, *, /) e calcular o 
+resultado. 
+Dica: Use if para verificar qual operação foi escolhida. 
+Exemplo de Entrada: 
+Digite dois números: 10 5 
+Digite a operação (+, -, *, /): * 
+Saída Esperada: 
+Resultado: 50
