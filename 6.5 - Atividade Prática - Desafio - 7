@@ -7,3 +7,28 @@ Jogador 1: pedra
 Jogador 2: tesoura 
 Saída Esperada: 
 Jogador 1 venceu!
+
+/*### **Desafio 7: Pedra, Papel e Tesoura**  
+**Descrição:** O programa deve permitir que dois jogadores escolham entre 
+"pedra", "papel" ou "tesoura" e determinar o vencedor.  
+**Dica:** Compare as escolhas dos jogadores e determine o resultado com `if`.  
+
+**Exemplo de Entrada:**  
+```
+Jogador 1: pedra
+Jogador 2: tesoura
+```
+**Saída Esperada:**  
+```
+Jogador 1 venceu!
+*/
+#include <stdio.h>
+
+int main()
+{
+    
+    char cha1
+    printf("Hello World");
+
+    return 0;
+}
