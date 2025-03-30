@@ -1,0 +1,9 @@
+Desafio 3: Simulação de Login 
+Descrição: O programa deve comparar um usuário e senha previamente definidos e 
+validar a entrada do usuário. 
+Dica: Use if para comparar strings e simular um login simples. 
+Exemplo de Entrada: 
+Usuário: admin 
+Senha: 1234 
+Saída Esperada: 
+Login realizado com sucesso! 
