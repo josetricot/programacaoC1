@@ -24,7 +24,7 @@ int main()
     
     printf("\n Digite a operação \n + para soma, \n - para subtração, \n / para divisão, \n * para multiplicação  : ");
     opcao = getchar ();
-    printf("\n Digite o primeiro número: ");
+    printf("\n Digite o primeiro número: ");   // ou peça os dois printf("Escreva dois números: "); scanf("%f %f", &a, &b);
     scanf("%f",&a);
     printf("\n Digite o segundo número: ");
     scanf("%f",&b);
