@@ -59,15 +59,13 @@ int main()
                 printf("\nVoto em Branco.");
                 votos_branco = votos_branco + 1;
                 break;
-            case 5:
-                printf("\nVoto Nulo.");
-                votos_nulo = votos_nulo + 1;
-                break;
             case 0:
                 // Encerra a votação
                 break;
             default:
-                printf("\nVoto invalidado!");
+                printf("\nVoto Nulo.");
+                votos_nulo = votos_nulo + 1;
+                break;
         }
 
     } while (escolha != 0);
