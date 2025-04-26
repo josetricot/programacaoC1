@@ -1,6 +1,19 @@
 /******************************************************************************
 
-Questão 1 Simulado - Professor
+Simulado - Questão 1 PROFESSOR
+Programador: José Athaulpa Kolesny Tricot
+
+ Questão  1: Faça um programa em linguagem C que execute as seguintes tarefas:
+ a) Peça ao usuário números inteiros positivos, deve parar de pedir números
+ quando o usuário digitar ‘0’ (zero) Nesta tarefa é obrigatório o uso correto de
+ uma estrutura de repetição (for, while ou do.. while);b) Para cada número inteiro
+ positivo digitado pelo usuário, o programa deve mostrar os divisores dos valores
+ ímpares e a tabuada dos valores pares;
+ c) Quando o laço de repetição terminar (isso ocorrerá quando o usuário digitar ‘0’),
+ o programa deverá mostrar ao usuário a Média de todos dos valores ímpares
+ e oMaior valor par digitado pelo usuário: Desconsiderar o valor ‘0’ (zero) para
+ todos os itens
+
 
 *******************************************************************************/
 #include <stdio.h>
