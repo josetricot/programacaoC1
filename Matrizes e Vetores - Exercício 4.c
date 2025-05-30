@@ -20,7 +20,7 @@ int main() {
     // Preenche automaticamente
     for(i = 0; i < 10; i++) {
         vetA[i] = i + 1;      // Números de 1 a 10
-        c[i] = 65 + i;        // Letras maiúsculas de 'A' a 'J' (65 é 'A' em ASCII)
+        c[i] = 65 + i;        // Letras maiúsculas de 'A' a 'J' (65 é 'A' em ASCII) ou 'a'+i
     }
 
     // Imprime intercalado
