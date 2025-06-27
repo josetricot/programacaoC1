@@ -49,9 +49,8 @@ int contarImparesColuna(int j, int matriz[7][7]) {
 }
 
 //f) Usando a função definida no item e, definir função que calcula a
-
-quantidade de números ímpares da matriz (definir função que recebe a
-matriz como parâmetro)
+//quantidade de números ímpares da matriz (definir função que recebe a
+//matriz como parâmetro)
 
 int contarImparesMatriz(int matriz[7][7]) {
     int resposta = 0;
