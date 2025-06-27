@@ -1,11 +1,3 @@
-Desafio 13: Média de Três Números 
-Descrição: O programa deve calcular a média de três números fornecidos pelo usuário. 
-Dica: Some os três números e divida por 3. 
-Exemplo de Entrada: 
-Digite três números: 4 8 6 
-Saída Esperada: 
-Média = 6.0 
-
 /******************************************************************************
 
 ### **Desafio 13: Média de Três Números**  
