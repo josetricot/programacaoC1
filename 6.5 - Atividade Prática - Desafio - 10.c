@@ -1,12 +1,3 @@
-Desafio 10: Determinação do Tipo de Triângulo 
-Descrição: O programa deve receber três lados de um triângulo e determinar se ele é 
-equilátero, isósceles ou escaleno. 
-Dica: Compare os três lados usando if para determinar o tipo do triângulo. 
-Exemplo de Entrada: 
-Digite os três lados do triângulo: 5 5 8 
-Saída Esperada: 
-O triângulo é isósceles 
-
 /***Desafio 10: Determinação do Tipo de Triângulo**  
 **Descrição:** O programa deve receber três lados de um triângulo e
 * determinar se ele é equilátero, isósceles ou escaleno.  
