@@ -15,8 +15,7 @@ Saída Esperada:
 int main() {
     
     float valorReais, valorDolar, cotacaoDolar;
-    
-    
+   
     printf("Digite um valor em Reais: ");
     scanf("%f", &valorReais);
     printf("Digite a cotação do Dólar: ");
