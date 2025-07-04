@@ -87,9 +87,9 @@ int main() {
 
     //resultados
 	
-	//a-média de serviços de streaming por entrevistado;
-	mediaQuantStreaming=(float)totQuantStreaming/totEntrevistados; /*⚠️ Pequeno problema aqui: divisão entre inteiros (int / int),
-	atribuída a float, inserido (float) antes de totQuantStreaming para garantir a precisão no cálculo com casas decimais*/
+    //a-média de serviços de streaming por entrevistado;
+    mediaQuantStreaming=(float)totQuantStreaming/totEntrevistados; /*⚠️ Pequeno problema aqui: divisão entre inteiros (int / int),
+    atribuída a float, inserido (float) antes de totQuantStreaming para garantir a precisão no cálculo com casas decimais*/
     printf("\na) A média de serviços de streaming por entrevistado é: %.1f",mediaQuantStreaming);
     
     //b-Qual a renda média dos entrevistados que assinam mais do que 3 serviços de streaming?
