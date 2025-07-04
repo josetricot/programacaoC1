@@ -101,8 +101,8 @@ int main() {
     //c-Qual a renda média dos entrevistados que usam mais de 20 horas de streaming por semana?
     if (totalRendaMais20==0) printf("\n Não existem entrevistados que usam mais de 20 horas de streaming por semana.");
     else {
-    mediaRendaMais20=totalRendaMais20/entrevistadosMaisDe20;
-    printf("\nc) A renda média dos entrevistados que usam mais de 20 horas de streaming por semana: %.2f",mediaRendaMais20);
+    	mediaRendaMais20=totalRendaMais20/entrevistadosMaisDe20;
+    	printf("\nc) A renda média dos entrevistados que usam mais de 20 horas de streaming por semana: %.2f",mediaRendaMais20);
     }
     
     printf("\n");
